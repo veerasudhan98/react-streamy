@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "sufjdl",
+      "id": 1
+    },
+    {
+      "description": "this is a legendary series by HBO",
+      "title": "gameofthrones",
+      "id": 2
+    },
+    {
+      "title": "the nature",
+      "description": "this stream is the beautiful overview of world's nature",
+      "id": 3
+    },
+    {
+      "title": "react tutoria.",
+      "description": "sdjlfjd;fjsdfjdjflsdjf",
+      "userId": "104119103521601626644",
+      "id": 4
+    },
+    {
+      "title": "mern stack ",
+      "description": "this teaches about mern stack development",
+      "userId": null,
+      "id": 5
+    }
+  ]
+}
